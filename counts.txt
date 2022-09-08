@@ -1,0 +1,4 @@
+229347    Line count of verified 
+3105519   Line count of unverified
+44403448  Word count of verified
+550169437 Word count of unverified
